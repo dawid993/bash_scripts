@@ -1,0 +1,21 @@
+ProductID,Name,Category,Price,Quantity
+1101,Apple AirPods Pro,Electronics,249.99,75
+1202,HP Spectre x360,Laptops,1299.99,25
+1303,Google Pixel 6,Electronics,599.99,40
+1404,Lenovo ThinkPad X1,Laptops,1399.99,30
+1505,Sony WH-1000XM5,Headphones,349.99,120
+1606,Jabra Elite 85t,Headphones,229.99,90
+1707,Adidas Stan Smith,Shoes,100.00,210
+1808,Nike Air Force 1,Shoes,110.00,190
+1909,Levi's 502 Jeans,Clothing,69.99,260
+2000,Tommy Hilfiger T-Shirt,Clothing,49.99,160
+2101,Apple iPad Pro,Electronics,999.99,55
+2202,Samsung Galaxy Tab S7,Electronics,649.99,45
+2303,Microsoft Surface Pro,Laptops,1199.99,35
+2404,Dell Inspiron 15,Laptops,799.99,50
+2505,Bose SoundLink,Bluetooth Speakers,129.99,150
+2606,Marshall Stanmore II,Bluetooth Speakers,349.99,60
+2707,Under Armour HOVR,Shoes,140.00,175
+2808,Reebok Classic Leather,Shoes,85.00,220
+2909,Gap Hoodie,Clothing,39.99,270
+3000,Polo Ralph Lauren Shirt,Clothing,89.99,180
