@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#There are better solution but I wanted to practice grep, wc, sort, uniq etc
+
 num_count() {
     local num=$1
     local str="$2"
